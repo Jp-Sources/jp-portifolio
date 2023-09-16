@@ -1,11 +1,7 @@
-# react_portfolio
+# jp-portfolio
 responsive portfolio using react js and tailwind css
 
-live preview : https://johnalexportfolio.netlify.app/
+live preview : https://sparkling-liger-765f56.netlify.app
 
-1.npm i
-2.npm run dev
+mail: okonkwojohnpaulchisom@gmail.com
 
-mail: codeaprogram@gmail.com
-
-happy coding :)
